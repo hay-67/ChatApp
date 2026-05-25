@@ -88,8 +88,8 @@ Contains JUnit tests for:
 
 ### Message Test Class
 Contains JUnit Tests for:
-- Message length validation
-- Recipent cellphone no. validation
-- Message hash generation
-- Message ID validation
-- Message sending options
+- Message Length Validation
+- Recipent Cellphone no. Validation
+- Message Hash Generation
+- Message ID Validation
+- Message Sending Options
