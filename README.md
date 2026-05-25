@@ -46,3 +46,50 @@ JUnit tests were used for:
 - Message ID validation
 - Message hash generation
 - Send message options
+
+
+## Classes Used
+
+### MainApp Class
+Handles:
+- User Registration
+- User Login
+- Menu Options
+- Message Creation
+
+---
+
+### Login Class
+- Username Validation
+- Password Validation
+- Celphone no. Validation
+- User Registration
+- User Login Verification
+
+---
+
+### Message Class
+- Generates message IDs
+- Checks message length
+- Generates message hashes
+- Sends, stores, disregards messages
+- Validates recipient phone number
+
+---
+
+### Login Test Class
+Contains JUnit tests for:
+- Username Validation
+- Password Complexity
+- Cellphone no. Validation
+- Login Functionality
+
+---
+
+### Message Test Class
+Contains JUnit Tests for:
+- Message length validation
+- Recipent cellphone no. validation
+- Message hash generation
+- Message ID validation
+- Message sending options
